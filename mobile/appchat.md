@@ -29,3 +29,7 @@ We're old school and still use MySql. MySql has been bumming us out lately thoug
 * **[Logentries](https://logentries.com/)** - Free - A really solid log search and tagging service, recommended.
 * **[Redis Cloud](https://redislabs.com/redis-cloud)** - Free for 25MB - For caching and some realtime user presence tracking.
 * **[Mailgun](http://mailgun.com)** - Free for 300 emails/day - Really simple email service. Can turn incoming emails into POSTs which is great too. We don't send many emails in this project but have used them for solid volume on other projects.
+
+## Total Cost: $125/month.
+
+Could be cheaper, but probably would be less convenient. We have a small team and try to release a new version of the app twice a week. Any extra time spent on infrastructure has a significant cost in lost time.
