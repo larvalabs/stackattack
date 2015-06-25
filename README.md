@@ -3,6 +3,6 @@ A collection of server frameworks, APIs and hosting in use right now by real peo
 
 ## Mobile Backends
 
-[AppChat](http://appchat.co) - Android chat app - Java, $125/month - [details](mobile/appchat.md)
+[AppChat](http://appchat.co) - Android chat app - Java - $125/month - [details](mobile/appchat.md)
 
 ## Websites
